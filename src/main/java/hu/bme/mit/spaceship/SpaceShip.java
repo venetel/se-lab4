@@ -21,3 +21,7 @@ public interface SpaceShip {
      */
     public boolean fireTorpedo(FiringMode firingMode);
 }
+
+
+
+
